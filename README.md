@@ -1,1 +1,1 @@
-Untuk Backend laravelnya sudah berjalan lancara di postman
+Untuk Backend laravelnya sudah berjalan lancar di postman, tapi untuk frontendnya masih belum selesai.
